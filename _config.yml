@@ -34,9 +34,9 @@ collections:
 
 # Navigation bar links.
 navigation:
-  - title: 主页 Home
+  - title: zrs1
     link: /
-  - title: 科研项目 Research
+  - title: zrs2
     link: /research.html
-  - title: 论文 Publications
+  - title: zrs3
     link: /publications.html
